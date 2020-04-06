@@ -27,9 +27,9 @@ Programacion en C,  clase 03 de Funciones.
 
 
 
+Resumen de comandos:
 
-Resumen 
-
+ 
  clonar : git clone mi-repo
 
 
