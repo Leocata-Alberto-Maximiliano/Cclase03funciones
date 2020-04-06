@@ -1,5 +1,7 @@
 # Leocata Alberto Maximiliano
-Tutorial Git + GitHhub
+# Tutorial Git + GitHhub
+
+Programacion en C,  clase 03 de Funciones.
 
   -1 crear una carpeta
   
