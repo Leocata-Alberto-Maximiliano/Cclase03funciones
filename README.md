@@ -1,5 +1,5 @@
-# Cclase03funciones
-Programación en C ,Clase 03  funciones
+# Leocata Alberto Maximiliano
+Tutorial Git + GitHhub
 
   -1 crear una carpeta
   
